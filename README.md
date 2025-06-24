@@ -27,8 +27,8 @@ Phishing emails use social engineering to trick users into sharing sensitive inf
 
 | File Name              | Description                                |
 |----------------------- |--------------------------------------------|
-| phishing_email_sample.png | Screenshot of the suspicious email       |
-| phishing_analysis.txt  | Full analysis report with phishing indicators |
+| Phishing_email_sample.png | Screenshot of the suspicious email       |
+| Phishing_analysis.txt  | Full analysis report with phishing indicators |
 
 ---
 
