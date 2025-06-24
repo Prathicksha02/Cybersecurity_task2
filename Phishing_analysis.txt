@@ -1,0 +1,49 @@
+Task 2
+Phishing Email Analysis Report
+
+
+*Email Details:
+
+Subject: Unusual sign-in activity  
+Sender: no-reply_msteam2@outlook.com  
+Claimed Organization: Microsoft  
+
+---
+
+Phishing Indicators Identified:
+
+1. **Suspicious Sender Address**
+   - Email sent from a random Outlook address (no-reply_msteam2@outlook.com)
+   - Official Microsoft alerts do not use such personal domains.
+
+2. **Unrealistic Location and Threat**
+   - Claims login from Lagos, Nigeria to scare the user.
+   - Creates panic to force immediate action.
+
+3. **Fake IP Address**
+   - Listed IP: 293.09.101.9
+   - IP addresses cannot contain numbers over 255; this proves falsification.
+
+4. **Urgent and Threatening Language**
+   - Mentions "Corrupt your Windows license key"
+   - Designed to pressure the recipient into reacting quickly.
+
+5. **Suspicious Contact Number**
+   - Phone number: 1-800-816-0380 provided for "support"
+   - Legitimate support rarely demands direct calls for account recovery.
+
+6. **Poor Grammar and Sentence Structure**
+   - Example: "Make a prohibited connection on your network which can corrupt your windows license key."
+   - Shows lack of professionalism, typical in phishing emails.
+
+---
+
+*Conclusion:
+
+This email is a clear example of phishing using:
+✔ Email Spoofing  
+✔ Social Engineering tactics like fear and urgency  
+✔ False technical information  
+
+The goal is to deceive the recipient into calling fake support or clicking malicious links.
+
