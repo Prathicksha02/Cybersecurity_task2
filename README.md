@@ -17,7 +17,7 @@ Phishing emails use social engineering to trick users into sharing sensitive inf
 ---
 
 ## Tools Used:
-- Online Email Header Analyzers (Optional)
+- Online Email Header Analyzers 
 - Browser Hover to Inspect Links
 - Manual Content Review
 
